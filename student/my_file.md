@@ -1,5 +1,5 @@
 # About Me
-My name is: Joseph.
+My name is: Joseph Schmitt.
 
 ## Food
 My favorite food is: Jenni's BrambleBerry Crisp.
