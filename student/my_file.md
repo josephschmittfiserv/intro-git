@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Joseph.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Jenni's BrambleBerry Crisp.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: PC games, swimming, basketball, powerlifting, hiking, and traveling.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: Tame Impala.
 
