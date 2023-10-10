@@ -1,5 +1,5 @@
 # Git Introduction
-A simple repo to help Joseph learn Git.
+A simple repo to help Joseph learn Git. 🙈
 
 # Getting Started
 1. Create a new directory on your computer 👌
